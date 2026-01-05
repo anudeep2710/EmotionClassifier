@@ -1,4 +1,4 @@
-# 🎧 Speech Emotion Classification System
+# Emotion Classification through audio
 
 ## Overview
 This project implements a **Speech Emotion Classification system** that predicts the emotional state of a speaker from audio signals. The system focuses on extracting meaningful acoustic features from speech and applying classical machine learning algorithms to classify emotions such as **happy, sad, angry, and neutral**.
